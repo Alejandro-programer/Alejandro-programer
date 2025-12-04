@@ -81,5 +81,11 @@ Quero construir soluções que realmente impactem pessoas e abrir as portas para
 ---
 
 # 🧩 Linha do Tempo da Minha Evolução
+<p>2022 → Primeiro contato com programação
+   2023 → Aprendendo Python e lógica de programação
+   2024 → Início no mundo da IA e Machine Learning
+   2025 → Criação de projetos práticos + GitHub ativo
+   2026 → (Meta) Meu primeiro modelo avançado em Deep Learning
+   2027 → (Meta) Participar de competições de IA e publicar projetos grandes</p>
 
 
