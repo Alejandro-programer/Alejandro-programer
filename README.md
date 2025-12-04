@@ -56,8 +56,10 @@ Focado em **Inteligência Artificial, Machine Learning, Ciência de Dados e auto
 ---
 
 # 🧩 **Linha de Evolução**
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00F7FF&center=true&vCenter=true&width=750&lines=Minha+Jornada+na+Tecnologia+🚀" />
-</p>
+<p>2022 → Primeiro contato com programação
+2023 → Aprendendo Python e lógica de programação
+2024 → Início no mundo da IA e Machine Learning
+2025 → Criação de projetos práticos + GitHub ativo
+2026 → (Meta) Meu primeiro modelo avançado em Deep Learning
+2027 → (Meta) Participar de competições de IA e publicar projetos grandes</p>
 
