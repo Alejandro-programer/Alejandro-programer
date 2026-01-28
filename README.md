@@ -1,18 +1,18 @@
-<!-- Banner Animado -->
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3300&color=00F7FF&center=true&vCenter=true&width=1000&lines=Olá%2C+eu+sou+Alejandro+👋;Jovem+Desenvolvedor+de+IA+🤖;14+anos+e+apaixonado+por+Machine+Learning+🔥;Bem-vindo+ao+meu+perfil+no+GitHub!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3300&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Alejandro+👋;Young+AI+Developer+🤖;14+years+old+and+passionate+about+Machine+Learning+🔥;Welcome+to+my+GitHub+profile!+🚀" />
 </p>
 
 ---
 
 # 🌟 **Alejandro Fracasso**
-### 👦 *Jovem Desenvolvedor de Machine Learning & Inteligência Artificial*  
-📍 *Neves Paulista – SP, Brasil*  
-🎂 *14 anos*
+### 👦 *Young Machine Learning & Artificial Intelligence Developer*  
+📍 *Neves Paulista – SP, Brazil*  
+🎂 *14 years old*
 
 ---
 
-# 🛡️ **Badges & Skills Visuais (Interativos)**
+# 🛡️ **Badges & Visual Skills (Interactive)**
 
 <p align="center">
   <a href="https://www.python.org/">
@@ -46,20 +46,18 @@
 
 ---
 
-# 🧠 Sobre mim
+# 🧠 About Me
 
-Sou Alejandro, um programador jovem de **14 anos**, apaixonado por tecnologia desde cedo.  
-Focado em **Inteligência Artificial, Machine Learning, Ciência de Dados e automação**, sempre busco aprender algo novo todos os dias.
+I’m Alejandro, a **14-year-old developer** passionate about technology from an early age.  
+Focused on **Artificial Intelligence, Machine Learning, Data Science, and automation**, I’m constantly learning and improving every day.
 
-💡 *"A tecnologia não é o futuro — é o presente para quem começa cedo."*
+💡 *“Technology is not the future — it’s the present for those who start early.”*
 
 ---
 
-# 🧩 **Linha de Evolução**
-<p>2022 → Primeiro contato com programação
-2023 → Aprendendo Python e lógica de programação
-2024 → Início no mundo da IA e Machine Learning
-2025 → Criação de projetos práticos + GitHub ativo
-2026 → (Meta) Meu primeiro modelo avançado em Deep Learning
-2027 → (Meta) Participar de competições de IA e publicar projetos grandes</p>
+# 🧩 **My Learning Journey**
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00F7FF&center=true&vCenter=true&width=750&lines=My+Technology+Journey+🚀" />
+</p>
 
