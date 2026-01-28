@@ -27,14 +27,6 @@
     <img src="https://img.shields.io/badge/Data%20Science-1D3557?style=for-the-badge&logo=google-analytics&logoColor=white"/>
   </a>
 
-  <a href="https://www.linux.org/">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  </a>
-
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-F54D27?style=for-the-badge&logo=git&logoColor=white"/>
-  </a>
-
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
